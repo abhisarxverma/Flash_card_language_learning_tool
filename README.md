@@ -27,7 +27,7 @@ I tried building it **on my own first**, made it halfway, then **followed along 
 
 This tool helps you **focus on what you haven’t learned yet**:  
 ✔️ Known word → removed  
-❌ Missed word → stays in `to_learn.csv`  
+❌ Missed word → stays in `words_to_learn.csv`  
 Every time you run the app, it loads from this saved progress!
 
 ---
